@@ -5,6 +5,18 @@
   "source": {
     "type": "git",
     "url": "https://github.com/lowRISC/opentitan",
-    "commit": "304378684dfcf5be73bbd14faffa71790793d8c6"
-  }
+    "commit": "304378684dfcf5be73bbd14faffa71790793d8c6",
+    "rtl_path": "rtl",
+    "rtl_files": [
+      "rtl/edn.sv",
+      "rtl/edn_ack_sm.sv",
+      "rtl/edn_core.sv",
+      "rtl/edn_field_en.sv",
+      "rtl/edn_main_sm.sv",
+      "rtl/edn_pkg.sv",
+      "rtl/edn_reg_pkg.sv",
+      "rtl/edn_reg_top.sv"
+    ]
+  },
+  "updated": "2026-02-19T06:03:45Z"
 }
